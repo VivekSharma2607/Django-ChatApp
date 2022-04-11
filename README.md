@@ -1,5 +1,5 @@
 # Django-ChatApp
-Created a Django Channels based Realtime Chat application
+Created a online real time chat application that can be used for free
 ## Teck Stack 
 Fronend : Used Bulma-css CDN for the frontend  purposes
 Backend : Used the Django and Channels for the Backend Purposes
