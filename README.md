@@ -2,7 +2,11 @@
 Created a online real time chat application that can be used for free
 ## Teck Stack 
 Fronend : Used Bulma-css CDN for the frontend  purposes
+
+
 Backend : Used the Django and Channels for the Backend Purposes
+
+
 Database : Used the SQLite in-built database in Django
 ## Main Theme 
 The User enters the Room or Chat Room to be more specifc and can simply chat online without the hustle of logging in or something
